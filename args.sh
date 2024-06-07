@@ -1,3 +1,6 @@
-#!/bin/bash
-echo "Deletes the file thats there"
+#!/bin/bash 
+
+echo "Your are an $1"
+echo "I hate $2"
+
 #rm -f $0
